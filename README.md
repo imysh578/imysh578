@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=SOKURI_CODE&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=SOKURI_CODE&fontSize=90)
 
 
 ### 🌈 Welcome to SOKURI_CODE 👋 
