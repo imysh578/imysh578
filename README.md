@@ -33,7 +33,6 @@
 [<img align="left" alt="SOKURI_CODE LinkedIn" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SOKURI_CODE Instagram" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-// Write down 
 [website]: https://velog.io/@imysh578
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/
