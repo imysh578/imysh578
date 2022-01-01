@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning `Go`, `Linux`
 - 🥅 2022 Goals : Studying `Solidity`, `Python` 
-- ⚡ Fun fact: I love to swim and have Life Guard certification.
+- ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 <br />
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Anurag's github stats" /></a>
