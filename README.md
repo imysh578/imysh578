@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning `Go`, `Linux`
 - 🥅 2022 Goals : Studying `Solidity`, `Python` 
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
-<br />
 
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=imysh578&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="Anurag's github stats" /></a>
 <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
@@ -23,6 +22,14 @@
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
+<br />
+
+### ✨ Commit Combo 
+<a href="https://github.com/devxb/CommitCombo">
+	<img src="http://commitcombo.com/theme/norank?user=imysh578&theme=BasicGray&v=2"/>
+</a>
+
+<br />
 
 ---
 ### Connect with me:
