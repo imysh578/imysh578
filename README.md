@@ -24,13 +24,6 @@
 
 <br />
 
-### ✨ Commit Combo 
-<a href="https://github.com/devxb/CommitCombo">
-	<img src="http://commitcombo.com/theme/norank?user=imysh578&theme=BasicGray&v=2"/>
-</a>
-
-<br />
-
 ---
 ### Connect with me:
 
