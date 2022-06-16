@@ -3,8 +3,8 @@
 
 ### 🌈 Welcome to SOKURI_CODE 👋 
 
-- 🌱 I’m currently learning `Go`, `Linux`
-- 🥅 2022 Goals : Studying `Solidity`, `Python` 
+- 🌱 I’m currently learning `Go`, `Rust`
+- 🥅 2022 Goals : Studying `Solidity`
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 
 <div style="display: flex, height:180px">
