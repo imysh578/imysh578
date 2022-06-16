@@ -3,7 +3,7 @@
 
 ### 🌈 Welcome to SOKURI_CODE 👋 
 
-- 🌱 I’m currently learning `Go`, `Rust`
+- 🌱 I’m currently interested in `Go`, `Rust`
 - 🥅 2022 Goals : Studying `Solidity`
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 
