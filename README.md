@@ -4,7 +4,7 @@
 ### 🌈 Welcome to SOKURI_CODE 👋 
 
 - 🌱 I’m currently interested in `Go`, `Rust`
-- 🥅 2022 Goals : Studying `Solidity`
+- 🥅 2022 Goals : Build my own mainnet
 - ⚡ Fun fact: I love to swim and have `Life Guard` certification.
 
 <div style="display: flex, height:180px">
